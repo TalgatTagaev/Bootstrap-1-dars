@@ -1,0 +1,27 @@
+.container{
+    margin-top: 50px;
+}
+.a{
+    border: 5px solid white;;
+    text-align: center; 
+    background-color: red; 
+    padding: 50px;
+    color: white;
+    border-radius: 10px;
+}
+.b{
+    padding: 20px;
+}
+.c{
+    height: 35px;
+    padding: 1px;
+    margin-top: 80px;
+}
+.cc{
+    height: 35px;
+    padding: 1px;
+}
+.bir{
+    padding: 40px;
+}
+

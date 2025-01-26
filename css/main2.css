@@ -1,0 +1,44 @@
+body{
+    background-color: red;
+}
+.container{
+    margin-top: 20px;
+    color: white;
+}
+.col-md-6{
+    border: 2px solid white;
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 20px;
+    background-color: rgb(252, 57, 57);
+    
+}
+.col-md-3{
+    border: 2px solid white;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    background-color: rgb(252, 57, 57);
+}
+.col-md-4{
+    border: 2px solid white;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    background-color: rgb(252, 57, 57);
+}
+.col-md-12{
+    border: 2px solid white;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    background-color: rgb(252, 57, 57);
+}
+.col-md-2{
+    border: 2px solid white;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    background-color: rgb(252, 57, 57);
+}
+
